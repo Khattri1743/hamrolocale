@@ -24,12 +24,12 @@
   </header>
 
   <nav class="main-nav">
-    <a href="http://localhost/My_web/hamrolocale.html">Home</a>
-    <a href="http://localhost/My_Web/hamrolocale_about.html">About Us</a>
-    <a href="http://localhost/My_Web/receipes.html">Recipes</a>
-    <a href="http://localhost/My_Web/blogs.html">Blogs</a>
-    <a href="http://localhost/My_Web/evvironment.html">Environment</a>
-    <a href="http://localhost/My_Web/smoked_meat.html">Oh, Smoked Meat!</a>
+    <a href="https://hamrolocale.netlify.app/">Home</a>
+    <a href="https://hamrolocale.netlify.app/abouts">About Us</a>
+    <a href="https://hamrolocale.netlify.app/receipes">Recipes</a>
+    <a href="https://hamrolocale.netlify.app/blogs">Blogs</a>
+    <a href="https://hamrolocale.netlify.app/environment">Environment</a>
+    <a href="https://hamrolocale.netlify.app/smokedmeat>Oh, Smoked Meat!</a>
   </nav>
   <br><br>
 
@@ -95,20 +95,20 @@
 
     <div class="footer-column">
       <ul>
-        <li><a href="http://localhost/My_Web/meathub.html">Shop</a></li>
-        <li><a href="http://localhost/My_Web/blogs.html">Blog</a></li>
-        <li><a href="http://localhost/My_Web/receipes.html">Recipes</a></li>
-        <li><a href="http://localhost/My_Web/hamrolocale_about.html">About Us</a></li>
-        <li><a href="http://localhost/My_Web/hamrolocale_contact.html">Contact Us</a></li>
+        <li><a href="https://hamrolocale.netlify.app//order">Shop</a></li>
+        <li><a href="https://hamrolocale.netlify.app/blogs">Blog</a></li>
+        <li><a href="https://hamrolocale.netlify.app/receipes">Recipes</a></li>
+        <li><a href="https://hamrolocale.netlify.app/abouts">About Us</a></li>
+        <li><a href="https://hamrolocale.netlify.app/contact">Contact Us</a></li>
       </ul>
     </div>
 
     <div class="footer-column">
       <ul>
-        <li><a href="http://localhost/My_web/hamrolocale_terms_conditions.html">Terms & Conditions</a></li>
-        <li><a href="http://localhost/My_web/policy.html">Privacy Policy</a></li>
-        <li><a href="http://localhost/My_web/shipping.html">Shipping Policy</a></li>
-        <li><a href="http://localhost/My_web/refund.html">Refund and Returns Policy</a></li>
+        <li><a href="https://hamrolocale.netlify.app/terms&conditions">Terms & Conditions</a></li>
+        <li><a href="https://hamrolocale.netlify.app/policy">Privacy Policy</a></li>
+        <li><a href="https://hamrolocale.netlify.app/shipping">Shipping Policy</a></li>
+        <li><a href="https://hamrolocale.netlify.app/refund">Refund and Returns Policy</a></li>
       </ul>
     </div>
 
