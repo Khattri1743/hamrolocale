@@ -50,5 +50,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 function redirectToPage() {
       // Replace the URL below with your destination
-      window.location.href = "http://localhost/My_Web/meathub.html";
+      window.location.href = "https://hamrolocale.netlify.app/orders";
     }
